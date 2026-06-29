@@ -1,0 +1,29 @@
+canonical_identifier: bkk:krp/KR3f0035/krp/v1
+canonical_location: https://kanripo.org/bkk/KR3f0035/krp/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 海島算經
+  date: '2015-08-24 23:10:33.402272'
+  source:
+    repository: kanripo
+    path: KR3f0035
+  base_edition: WYG
+  edition:
+    short: krp
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3f0035_000-krp.yaml, hash: 'sha256:2a657c4b993058e75a890015123b6db509a29b97cf9183f930b13fab3fad5f7f'}
+  - {seq: 1, filename: KR3f0035_001-krp.yaml, hash: 'sha256:087d5379757cbb154f07a54ffcf03b2c42f9f1a1390a2767884a356e00a5a2f4'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3f0035_001-krp.markers.yaml, hash: 'sha256:547f26c58adb31e2a5a2152802267ef03397ceb5265262d1bd126bc211107376'}
+table_of_contents:
+- ref: {seq: 1, marker_id: KR3f0035_WYG_001-1a, span: [body, 0, 3438]}
+  label: 海島算經
+  type: section
+  level: 1
+hash: sha256:3cda42327e3ab59c8ba4b1f896c497cd0694a5cc46d6e9624a614a4faff2bf57

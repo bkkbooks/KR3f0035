@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR3f0035/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 海島算經
+  edition:
+    short: krp
+  date: '2015-08-24 23:10:33.402272'
+  source:
+    repository: kanripo
+    path: KR3f0035/KR3f0035_000.txt
+hash: sha256:2a657c4b993058e75a890015123b6db509a29b97cf9183f930b13fab3fad5f7f

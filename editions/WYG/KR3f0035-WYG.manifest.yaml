@@ -1,0 +1,29 @@
+canonical_identifier: bkk:krp/KR3f0035/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3f0035/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 海島算經
+  date: '2015-08-24 23:10:33.402272'
+  source:
+    repository: kanripo
+    path: KR3f0035
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3f0035_000-WYG.yaml, hash: 'sha256:ab026b5d09f4f7e2b67a46da585046121ba04c7d14859d5e6aa512648f8a1d23'}
+  - {seq: 1, filename: KR3f0035_001-WYG.yaml, hash: 'sha256:9ed77e5d1070dce8c5f5f5a91c76245037286cbd28318d74d0b44135677f4d5f'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3f0035_001-WYG.markers.yaml, hash: 'sha256:52f2f076aba8f929a6c6521144b8d4667035a8ea1129ac26608fe3fc2e9372a5'}
+table_of_contents:
+- ref: {seq: 1, marker_id: KR3f0035_WYG_001-1a, span: [body, 0, 3438]}
+  label: 海島算經
+  type: section
+  level: 1
+hash: sha256:71c2950ebb110fcc9d353cecb8a428d2708909dbfbc77b49bc9b92126da44861

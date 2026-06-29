@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR3f0035/v1
+canonical_location: https://kanripo.org/bkk/KR3f0035/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 海島算經
+  identifiers:
+    krp: KR3f0035
+  tags:
+    kr-categories: KR3f
+  source:
+    repository: tls-texts
+    path: data/tls/KR3f0035.xml
+  edition:
+    short: bkk
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+- short: krp
+assets:
+  parts:
+  - seq: 1
+    filename: KR3f0035_001.yaml
+    hash: sha256:28c1b82e2dacacd43913f7ab8d321c7b2e2998187485ef524179e9d8f4a32768
+  markers:
+  - seq: 1
+    role: markers
+    filename: assets/KR3f0035_001.markers.yaml
+    hash: sha256:3c826c577e9a1d812a321742b7dc536a333facf9796530b89a27f12ec712e7db
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3f0035_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 1528
+  label: 海島算經
+  type: section
+  level: 1
+hash: sha256:73b9c832e91e9fc790be7b6b042e470a13f92b6a07286a95f02903c6c88c309a
