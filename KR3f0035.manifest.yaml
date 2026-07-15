@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3f0035/v1
 canonical_location: https://kanripo.org/bkk/KR3f0035/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 海島算經
   identifiers:
@@ -39,4 +39,4 @@ table_of_contents:
   label: 海島算經
   type: section
   level: 1
-hash: sha256:73b9c832e91e9fc790be7b6b042e470a13f92b6a07286a95f02903c6c88c309a
+hash: sha256:7ac1b11c98ccc1e065489726ffa5c4d609a77de26636511867540dad56694fc2
