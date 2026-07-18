@@ -20,10 +20,16 @@ assets:
   - {seq: 0, filename: KR3f0035_000-krp.yaml, hash: 'sha256:2a657c4b993058e75a890015123b6db509a29b97cf9183f930b13fab3fad5f7f'}
   - {seq: 1, filename: KR3f0035_001-krp.yaml, hash: 'sha256:087d5379757cbb154f07a54ffcf03b2c42f9f1a1390a2767884a356e00a5a2f4'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3f0035_001-krp.markers.yaml, hash: 'sha256:547f26c58adb31e2a5a2152802267ef03397ceb5265262d1bd126bc211107376'}
+  - {seq: 1, role: markers, filename: assets/KR3f0035_001-krp.markers.yaml, hash: 'sha256:5cfe6f377962fd24a5ed8a2f24c0bc6b5f5b12ccf95b9b756203daae7fd28b52'}
 table_of_contents:
-- ref: {seq: 1, marker_id: KR3f0035_WYG_001-1a, span: [body, 0, 3438]}
+- ref:
+    seq: 1
+    marker_id: KR3f0035_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 3438
   label: 海島算經
   type: section
   level: 1
-hash: sha256:3cda42327e3ab59c8ba4b1f896c497cd0694a5cc46d6e9624a614a4faff2bf57
+hash: sha256:5f5fc9483fe0362fdd584389e78715b8166bbe5496347e52accda91760a7c656
